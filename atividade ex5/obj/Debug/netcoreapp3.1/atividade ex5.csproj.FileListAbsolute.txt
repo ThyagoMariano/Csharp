@@ -1,0 +1,11 @@
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\bin\Debug\netcoreapp3.1\atividade ex5.exe
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\bin\Debug\netcoreapp3.1\atividade ex5.deps.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\bin\Debug\netcoreapp3.1\atividade ex5.runtimeconfig.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\bin\Debug\netcoreapp3.1\atividade ex5.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\bin\Debug\netcoreapp3.1\atividade ex5.dll
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\bin\Debug\netcoreapp3.1\atividade ex5.pdb
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\obj\Debug\netcoreapp3.1\atividade ex5.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\obj\Debug\netcoreapp3.1\atividade ex5.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\obj\Debug\netcoreapp3.1\atividade ex5.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\obj\Debug\netcoreapp3.1\atividade ex5.dll
+C:\Users\Cristina\Desktop\AlgoTT2BI\atividade ex5\obj\Debug\netcoreapp3.1\atividade ex5.pdb

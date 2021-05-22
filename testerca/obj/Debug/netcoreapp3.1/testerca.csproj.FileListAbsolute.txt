@@ -1,0 +1,11 @@
+C:\Users\Cristina\Desktop\AlgoTT\testerca\bin\Debug\netcoreapp3.1\testerca.exe
+C:\Users\Cristina\Desktop\AlgoTT\testerca\bin\Debug\netcoreapp3.1\testerca.deps.json
+C:\Users\Cristina\Desktop\AlgoTT\testerca\bin\Debug\netcoreapp3.1\testerca.runtimeconfig.json
+C:\Users\Cristina\Desktop\AlgoTT\testerca\bin\Debug\netcoreapp3.1\testerca.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\AlgoTT\testerca\bin\Debug\netcoreapp3.1\testerca.dll
+C:\Users\Cristina\Desktop\AlgoTT\testerca\bin\Debug\netcoreapp3.1\testerca.pdb
+C:\Users\Cristina\Desktop\AlgoTT\testerca\obj\Debug\netcoreapp3.1\testerca.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\AlgoTT\testerca\obj\Debug\netcoreapp3.1\testerca.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\AlgoTT\testerca\obj\Debug\netcoreapp3.1\testerca.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\AlgoTT\testerca\obj\Debug\netcoreapp3.1\testerca.dll
+C:\Users\Cristina\Desktop\AlgoTT\testerca\obj\Debug\netcoreapp3.1\testerca.pdb

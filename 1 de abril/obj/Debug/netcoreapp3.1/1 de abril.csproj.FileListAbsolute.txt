@@ -1,0 +1,11 @@
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\bin\Debug\netcoreapp3.1\1 de abril.exe
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\bin\Debug\netcoreapp3.1\1 de abril.deps.json
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\bin\Debug\netcoreapp3.1\1 de abril.runtimeconfig.json
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\bin\Debug\netcoreapp3.1\1 de abril.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\bin\Debug\netcoreapp3.1\1 de abril.dll
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\bin\Debug\netcoreapp3.1\1 de abril.pdb
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\obj\Debug\netcoreapp3.1\1 de abril.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\obj\Debug\netcoreapp3.1\1 de abril.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\obj\Debug\netcoreapp3.1\1 de abril.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\obj\Debug\netcoreapp3.1\1 de abril.dll
+C:\Users\Cristina\Desktop\AlgoTT\1 de abril\obj\Debug\netcoreapp3.1\1 de abril.pdb

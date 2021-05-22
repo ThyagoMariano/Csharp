@@ -1,0 +1,12 @@
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\bin\Debug\netcoreapp2.2\tt.deps.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\bin\Debug\netcoreapp2.2\tt.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\bin\Debug\netcoreapp2.2\tt.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\bin\Debug\netcoreapp2.2\tt.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\bin\Debug\netcoreapp2.2\tt.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto\obj\Debug\netcoreapp2.2\tt.genruntimeconfig.cache

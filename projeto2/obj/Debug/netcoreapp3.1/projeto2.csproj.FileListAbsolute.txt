@@ -1,0 +1,24 @@
+C:\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.exe
+C:\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.deps.json
+C:\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.runtimeconfig.json
+C:\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.runtimeconfig.dev.json
+C:\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.dll
+C:\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.pdb
+C:\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.csprojAssemblyReference.cache
+C:\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.AssemblyInfoInputs.cache
+C:\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.AssemblyInfo.cs
+C:\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.dll
+C:\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.exe
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.deps.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\bin\Debug\netcoreapp3.1\projeto2.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT\projeto2\obj\Debug\netcoreapp3.1\projeto2.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\bin\Debug\netcoreapp3.1\atividade bruno.exe
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\bin\Debug\netcoreapp3.1\atividade bruno.deps.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\bin\Debug\netcoreapp3.1\atividade bruno.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\bin\Debug\netcoreapp3.1\atividade bruno.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\bin\Debug\netcoreapp3.1\atividade bruno.dll
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\bin\Debug\netcoreapp3.1\atividade bruno.pdb
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\obj\Debug\netcoreapp3.1\atividade bruno.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\obj\Debug\netcoreapp3.1\atividade bruno.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\obj\Debug\netcoreapp3.1\atividade bruno.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\obj\Debug\netcoreapp3.1\atividade bruno.dll
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\atividade bruno\obj\Debug\netcoreapp3.1\atividade bruno.pdb

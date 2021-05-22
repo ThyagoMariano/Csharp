@@ -1,0 +1,22 @@
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.exe
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.deps.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.dll
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.pdb
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.dll
+C:\Users\Cristina\Desktop\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.exe
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.deps.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\bin\Debug\netcoreapp3.1\matriz.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\matriz\obj\Debug\netcoreapp3.1\matriz.pdb

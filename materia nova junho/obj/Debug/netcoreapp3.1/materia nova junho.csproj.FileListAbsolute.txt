@@ -1,0 +1,22 @@
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.exe
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.deps.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.runtimeconfig.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.dll
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.pdb
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.dll
+C:\Users\Cristina\Desktop\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.exe
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.deps.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\bin\Debug\netcoreapp3.1\materia nova junho.pdb
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.dll
+C:\Users\Cristina\Desktop\algoritmo pasta codigo\AlgoTT2BI\materia nova junho\obj\Debug\netcoreapp3.1\materia nova junho.pdb
