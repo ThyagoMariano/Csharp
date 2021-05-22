@@ -1,0 +1,3 @@
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\adicio\obj\Debug\netcoreapp3.1\adicio.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\adicio\obj\Debug\netcoreapp3.1\adicio.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\adicio\obj\Debug\netcoreapp3.1\adicio.AssemblyInfo.cs
