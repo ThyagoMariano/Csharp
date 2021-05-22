@@ -1,0 +1,11 @@
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\bin\Debug\netcoreapp3.1\bruno fibonacci recursiva.exe
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\bin\Debug\netcoreapp3.1\bruno fibonacci recursiva.deps.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\bin\Debug\netcoreapp3.1\bruno fibonacci recursiva.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\bin\Debug\netcoreapp3.1\bruno fibonacci recursiva.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\bin\Debug\netcoreapp3.1\bruno fibonacci recursiva.dll
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\bin\Debug\netcoreapp3.1\bruno fibonacci recursiva.pdb
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\obj\Debug\netcoreapp3.1\bruno fibonacci recursiva.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\obj\Debug\netcoreapp3.1\bruno fibonacci recursiva.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\obj\Debug\netcoreapp3.1\bruno fibonacci recursiva.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\obj\Debug\netcoreapp3.1\bruno fibonacci recursiva.dll
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fibonacci recursiva\obj\Debug\netcoreapp3.1\bruno fibonacci recursiva.pdb

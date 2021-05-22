@@ -1,0 +1,11 @@
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\bin\Debug\netcoreapp3.1\bruno fatorial recursivaa.exe
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\bin\Debug\netcoreapp3.1\bruno fatorial recursivaa.deps.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\bin\Debug\netcoreapp3.1\bruno fatorial recursivaa.runtimeconfig.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\bin\Debug\netcoreapp3.1\bruno fatorial recursivaa.runtimeconfig.dev.json
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\bin\Debug\netcoreapp3.1\bruno fatorial recursivaa.dll
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\bin\Debug\netcoreapp3.1\bruno fatorial recursivaa.pdb
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\obj\Debug\netcoreapp3.1\bruno fatorial recursivaa.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\obj\Debug\netcoreapp3.1\bruno fatorial recursivaa.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\obj\Debug\netcoreapp3.1\bruno fatorial recursivaa.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\obj\Debug\netcoreapp3.1\bruno fatorial recursivaa.dll
+C:\Users\Cristina\Desktop\algoritmo 2 code CORRETO\bruno fatorial recursivaa\obj\Debug\netcoreapp3.1\bruno fatorial recursivaa.pdb
